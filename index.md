@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# A Growth Mindset
+The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
 
-You can use the [editor on GitHub](https://github.com/ibrahimBanat/readingNotes-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## What is Growth Mindset?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The philosophy of growth mindset is that you learn how to learn and love what you are learning, this is based on that you can develop your fundemental abilities through effort and perseverance.
 
-### Markdown
+on the other hand the fixed minsets, intelligence and talent are a fixed traits and sucesss doesn't need any efforts.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
+*Photo for the differnce between growth mindset and fixed mindset*
 
-# Header 1
-## Header 2
-### Header 3
+## Maintining a growth mindset 
 
-- Bulleted
-- List
+This is some tips which may help you to maintian perseverance:
 
-1. Numbered
-2. List
+1. challenges:
+    - What are you willing to lose? take the challenges avoidance will take you back and back, arm youerself and You gotta conquer the monster in your head which tells you that you cannot do it, you are welling to do it just go through the problem bit by bit and work on it from another aspects.
 
-**Bold** and _Italic_ and `Code` text
+2. Effort 
+    > "No pain, No gain"
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ibrahimBanat/readingNotes-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    - If you don't take the pain now, you are going to regret it, i know how you feel when are trying to wake up at the morning and all what in your mind is to pull the blanket more around yourself, It's your reflection looking back to pull you down!
+but if you go over this feeling, your body going to thank you and feels better, your spirit is stronger and you'll be proud of yourself.
