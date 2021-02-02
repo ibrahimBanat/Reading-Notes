@@ -32,5 +32,8 @@ It is easy to open a terminal but you need first follow the steps which related 
 
 1. ls command 
     - the ls command is used to view the contents of a directory, by default it will show the content of the working directory
+<<<<<<< HEAD:theCodersComputer.md
  
 & dragonfly 
+=======
+>>>>>>> afbd4de83ab8d25c31e5f6cc8a081edb3a8555ed:the-coders-computer.md
