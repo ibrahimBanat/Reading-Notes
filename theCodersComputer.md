@@ -32,3 +32,5 @@ It is easy to open a terminal but you need first follow the steps which related 
 
 1. ls command 
     - the ls command is used to view the contents of a directory, by default it will show the content of the working directory
+ 
+& dragonfly 
