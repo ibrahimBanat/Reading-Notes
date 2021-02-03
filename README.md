@@ -5,7 +5,8 @@
 <br>
 
 1. [About](#About)
-    - [Built With](#)
+
+    <!-- - [Built With](#) -->
 
 2. [Getting Started](#Getting-started)
     - [Installation](#Installation)
@@ -27,6 +28,14 @@
 
 ## About 
 ***
+This repo was created upon tasks requested in [Introduction to Software development ](https://asac.ltuc.com/courses/code-102-intro-to-software-development/) course, which is a part of Full stack programe called `Qudra II` powerd by [LTUC ASAC](https://asac.ltuc.com/) and [Code Fellows](https://www.codefellows.org/) .
+
+In this repo i learnt about:
+- [Markdowns on Github.](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+- [Github pages.](https://guides.github.com/features/pages/)
+- [How to download Ubuntu Virtual Machin in my OS.](https://codefellows.github.io/setup-guide/)
+- [The command Line & Basic Navigations.](https://ryanstutorials.net/linuxtutorial/commandline.php)
+- [Git And Github.](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 ## Getting-started
 ***
@@ -65,22 +74,24 @@ This step is necessary to avoid pushing into the this rep.
 <br>
 
 ### Git-Introduction 
-The next Link will help you learn about git and how to use it with Github. [Link](https://ibrahimbanat.github.io/Reading-Notes/git-intro)
+The next [Link](https://ibrahimbanat.github.io/Reading-Notes/git-intro) will help you learn about git and how to use it with Github. 
 <br>
 <br>
 
 ### A-Growth-Mindset
 The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
-
 You can find the full article [here](https://ibrahimbanat.github.io/Reading-Notes/growth-mindset)
 <br>
 <br>
 
 
 ### Command-Line-Introduction 
-The next link will help you learning how to use a terminal from [here](https://ibrahimbanat.github.io/Reading-Notes/theCodersComputer).
+This [Link](https://ibrahimbanat.github.io/Reading-Notes/theCodersComputer) will help you learning how to use the terminal.
 <br>
 <br>
+
+### Markdown 
+This [link](https://ibrahimbanat.github.io/Reading-Notes/Markdown) will help you learning how to use the Markdown on Github.
 
 ## Contact
 ***
@@ -103,3 +114,9 @@ The next link will help you learning how to use a terminal from [here](https://i
 * [Markdown Documentation](https://www.markdownguide.org/getting-started)
 
 * [GitHub Pages](https://pages.github.com/)
+
+* [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+
+
+
