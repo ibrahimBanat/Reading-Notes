@@ -47,6 +47,7 @@ This is the instruction to how setup this project localy.
 This step is necessary to avoid pushing into the this rep.
 
 <br>
+
 **Step 2**: Create a Local clone of your Fork.
 
 - Right now, you have a fork of the Spoon-Knife repository, but you don't have the files in that repository on your computer. Let's create a clone of your fork locally on your computer.
@@ -55,13 +56,16 @@ This step is necessary to avoid pushing into the this rep.
 
     2. Above the list of files, click  Code.
 
-    3. To clone the repository using HTTPS, under "Clone with HTTPS",
+    3. To clone the repository using HTTPS, under `Clone with HTTPS`,
 
     ![](https://docs.github.com/assets/images/help/repository/https-url-clone.png)![](https://docs.github.com/assets/images/help/repository/https-url-clone-cli.png)
 
     4. Type git clone, and then paste the URL you copied earlier. It will look like this, with your GitHub username instead of `YOUR-USERNAME`:
 
-        - `$ git clone https://github.com/YOUR-USERNAME/[repo-name]`
+        ```
+        $ git clone https://github.com/YOUR-USERNAME/[repo-name]
+
+        ```
     
     5. press **ENTER**. Your local clone will be created.
 
@@ -90,7 +94,7 @@ This [Link](https://ibrahimbanat.github.io/Reading-Notes/theCodersComputer) will
 This [link](https://ibrahimbanat.github.io/Reading-Notes/Markdown) will help you learning how to use the Markdown on Github.
 
 ## Contact
-***
+
 [Email](Ibrahim.banat.97@gmail.com)
 
 [Linkedin](https://www.linkedin.com/in/ibrahim-banat)
