@@ -20,14 +20,12 @@
 5. [Acknowledgements](#Acknowledgements)
 </details>
 
-*** 
 
 <br>
 <br>
 <br>
 
 ## About 
-***
 This repo was created upon tasks requested in [Introduction to Software development ](https://asac.ltuc.com/courses/code-102-intro-to-software-development/) course, which is a part of Full stack programe called `Qudra II` powerd by [LTUC ASAC](https://asac.ltuc.com/) and [Code Fellows](https://www.codefellows.org/) .
 
 In this repo i learnt about:
@@ -38,7 +36,6 @@ In this repo i learnt about:
 - [Git And Github.](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 ## Getting-started
-***
 This is the instruction to how setup this project localy.
 
 ### Installation 
@@ -70,7 +67,6 @@ This step is necessary to avoid pushing into the this rep.
 
 
 ## Topics 
-***
 <br>
 
 ### Git-Introduction 
@@ -107,7 +103,7 @@ This [link](https://ibrahimbanat.github.io/Reading-Notes/Markdown) will help you
 
 
 ## Acknowledgements
-***
+
 * [Linux Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 * [Git & Github](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1)
 
