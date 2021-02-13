@@ -1,5 +1,4 @@
 
-
 <details open>
 <summary>Table of Content</summary>
 <br>
@@ -11,7 +10,12 @@
 2. [Getting Started](#Getting-started)
     - [Installation](#Installation)
 
-3. [Topics](#Topics) 
+2. [Code-102-Daily-Reading-Assignments](#Code-102-Daily-Reading-Assignments)
+
+2. [Code-201-Daily-Reading-Assignments](#Code-201-Daily-Reading-Assignments)
+    
+
+3. [Reading-Files-Topics](#Reading-Files-Topics) 
     - [Git-Introduction](#Git-Introduction)
     - [A-Growth-Mindset](#A-Growth-Mindset)
     - [Command-Line-Introduction](#Command-Line-Introduction
@@ -69,8 +73,33 @@ This step is necessary to avoid pushing into the this rep.
     
     5. press **ENTER**. Your local clone will be created.
 
+## Code-102-Daily-Reading-Assignments
+1. [Linux Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+2. [Git & Github](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1)
 
-## Topics 
+3. [Markdown Documentation](https://www.markdownguide.org/getting-started)
+
+4. [GitHub Pages](https://pages.github.com/)
+
+5. [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+6. [Html Introduction](https://www.academia.edu/42962379/HTML_and_CSS_Design_and_Build_Websites_by_Duckett_Jon_Paperback)
+
+7. [Css Introduction](https://www.academia.edu/42962379/HTML_and_CSS_Design_and_Build_Websites_by_Duckett_Jon_Paperback)
+
+8. [JavaScript Introduction](https://www.academia.edu/25507004/Jon_Duckett_JavaScript_and_jQuery_Interactive_Front_End_Web_Development_Hardcover)
+
+9. [JavaScript Functions](https://www.academia.edu/25507004/Jon_Duckett_JavaScript_and_jQuery_Interactive_Front_End_Web_Development_Hardcover)
+
+10. [JavaScripts Loops](https://www.academia.edu/25507004/Jon_Duckett_JavaScript_and_jQuery_Interactive_Front_End_Web_Development_Hardcover)
+
+
+## Code-201-Daily-Reading-Assignments
+These are my daily reading assignments for [Code Fellows code-201d17](https://asac.ltuc.com/courses/code-201-foundations-of-software-development/). in this way im putting my skills to review and remmbering what I am learning in a better way.
+
+1. 
+
+## Reading-Files-Topics
 <br>
 
 ### Git-Introduction 
