@@ -1,4 +1,4 @@
-# JavaScript & JQuery
+# JavaScript 
 
 how JavaScript can be used
 in browsers to make websites more interactive,
