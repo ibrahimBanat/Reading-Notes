@@ -40,7 +40,7 @@
     - [DO-WHILE](#DO-WHILE)
     - [Loop-counter](#Loop-counter)
 1. [Using-while-Loops](#Using-while-Loops)
-
+</details>
 
 ## HTML-Text
 
