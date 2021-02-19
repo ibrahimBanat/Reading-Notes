@@ -48,9 +48,9 @@ These are my daily reading assignments for Code Fellows [Introduction to Softwar
 
 |   |   |   |   |
 |---|---|---|---|
-| [Linux Command Line](https://ibrahimbanat.github.io/Reading-Notes/theCodersComputer)  |  [Markdown Documentation](https://www.markdownguide.org/getting-started)  |  [GitHub Pages](https://pages.github.com/)  |   [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) |  
-[Html Introduction](https://www.academia.edu/42962379/HTML_and_CSS_Design_and_Build_Websites_by_Duckett_Jon_Paperback) | [Css Introduction](https://www.academia.edu/42962379/HTML_and_CSS_Design_and_Build_Websites_by_Duckett_Jon_Paperback) | [JavaScript Introduction](https://www.academia.edu/25507004/Jon_Duckett_JavaScript_and_jQuery_Interactive_Front_End_Web_Development_Hardcover) | [JavaScript Functions](https://www.academia.edu/25507004/Jon_Duckett_JavaScript_and_jQuery_Interactive_Front_End_Web_Development_Hardcover) |  
-[JavaScripts Loops](https://www.academia.edu/25507004/Jon_Duckett_JavaScript_and_jQuery_Interactive_Front_End_Web_Development_Hardcover)
+| [Linux Command Line](https://ibrahimbanat.github.io/Reading-Notes/code102-readings/theCodersComputer)  |  [Markdown](https://ibrahimbanat.github.io/Reading-Notes/code102-readings/Markdown)  |  [GitHub Pages](https://pages.github.com/)  |   [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) |  
+[Html Introduction](https://ibrahimbanat.github.io/Reading-Notes/code102-readings/Html-intro) | [Css Introduction](https://ibrahimbanat.github.io/Reading-Notes/code102-readings/Intro-css) | [JavaScript Introduction](https://ibrahimbanat.github.io/Reading-Notes/code102-readings/JS-Intro) | [JavaScript Functions](https://ibrahimbanat.github.io/Reading-Notes/code102-readings/js-functions) |  
+[JavaScripts Loops](https://ibrahimbanat.github.io/Reading-Notes/code102-readings/operator-loops) | [Growth Mindset](https://ibrahimbanat.github.io/Reading-Notes/code102-readings/growth-mindset)
 
 
 <br><br>
