@@ -7,8 +7,7 @@
 
     <!-- - [Built With](#) -->
 
-2. [Getting Started](#Getting-started)
-    - [Installation](#Installation)
+
 
 2. [Code-102-Daily-Reading-Assignments](#Code-102-Daily-Reading-Assignments)
 
@@ -39,65 +38,28 @@ In this repo i learnt about:
 - [The command Line & Basic Navigations.](https://ryanstutorials.net/linuxtutorial/commandline.php)
 - [Git And Github.](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
-## Getting-started
-This is the instruction to how setup this project localy.
 
-### Installation 
-<br>
-
-**Step 1**: In the top-right corner of the page, click Fork.<br>
-<br>
-![](https://docs.github.com/assets/images/help/repository/fork_button.jpg)<br>
-This step is necessary to avoid pushing into the this rep.
-
-<br>
-
-**Step 2**: Create a Local clone of your Fork.
-
-- Right now, you have a fork of the Spoon-Knife repository, but you don't have the files in that repository on your computer. Let's create a clone of your fork locally on your computer.
-
-    1. On GitHub, navigate to your fork of the Spoon-Knife repository.
-
-    2. Above the list of files, click  Code.
-
-    3. To clone the repository using HTTPS, under `Clone with HTTPS`,
-
-    ![](https://docs.github.com/assets/images/help/repository/https-url-clone.png)![](https://docs.github.com/assets/images/help/repository/https-url-clone-cli.png)
-
-    4. Type git clone, and then paste the URL you copied earlier. It will look like this, with your GitHub username instead of `YOUR-USERNAME`:
-
-        ```
-        $ git clone https://github.com/YOUR-USERNAME/[repo-name]
-
-        ```
-    
-    5. press **ENTER**. Your local clone will be created.
 
 ## Code-102-Daily-Reading-Assignments
-1. [Linux Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
-2. [Git & Github](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1)
 
-3. [Markdown Documentation](https://www.markdownguide.org/getting-started)
+These are my daily reading assignments for Code Fellows [Introduction to Software development ](https://asac.ltuc.com/courses/code-102-intro-to-software-development/) Course. in this way im putting my skills to review and remmbering what I am learning in a better way.
 
-4. [GitHub Pages](https://pages.github.com/)
+<br>
 
-5. [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+|   |   |   |   |
+|---|---|---|---|
+| [Linux Command Line](https://ibrahimbanat.github.io/Reading-Notes/theCodersComputer)  |  [Markdown Documentation](https://www.markdownguide.org/getting-started)  |  [GitHub Pages](https://pages.github.com/)  |   [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) |  
+[Html Introduction](https://www.academia.edu/42962379/HTML_and_CSS_Design_and_Build_Websites_by_Duckett_Jon_Paperback) | [Css Introduction](https://www.academia.edu/42962379/HTML_and_CSS_Design_and_Build_Websites_by_Duckett_Jon_Paperback) | [JavaScript Introduction](https://www.academia.edu/25507004/Jon_Duckett_JavaScript_and_jQuery_Interactive_Front_End_Web_Development_Hardcover) | [JavaScript Functions](https://www.academia.edu/25507004/Jon_Duckett_JavaScript_and_jQuery_Interactive_Front_End_Web_Development_Hardcover) |  
+[JavaScripts Loops](https://www.academia.edu/25507004/Jon_Duckett_JavaScript_and_jQuery_Interactive_Front_End_Web_Development_Hardcover)
 
-6. [Html Introduction](https://www.academia.edu/42962379/HTML_and_CSS_Design_and_Build_Websites_by_Duckett_Jon_Paperback)
 
-7. [Css Introduction](https://www.academia.edu/42962379/HTML_and_CSS_Design_and_Build_Websites_by_Duckett_Jon_Paperback)
-
-8. [JavaScript Introduction](https://www.academia.edu/25507004/Jon_Duckett_JavaScript_and_jQuery_Interactive_Front_End_Web_Development_Hardcover)
-
-9. [JavaScript Functions](https://www.academia.edu/25507004/Jon_Duckett_JavaScript_and_jQuery_Interactive_Front_End_Web_Development_Hardcover)
-
-10. [JavaScripts Loops](https://www.academia.edu/25507004/Jon_Duckett_JavaScript_and_jQuery_Interactive_Front_End_Web_Development_Hardcover)
+<br><br>
 
 
 ## Code-201-Daily-Reading-Assignments
 These are my daily reading assignments for [Code Fellows code-201d17](https://asac.ltuc.com/courses/code-201-foundations-of-software-development/). in this way im putting my skills to review and remmbering what I am learning in a better way.
 
-1. 
+
 
 ## Reading-Files-Topics
 <br>
