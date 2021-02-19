@@ -57,8 +57,11 @@ These are my daily reading assignments for Code Fellows [Introduction to Softwar
 
 
 ## Code-201-Daily-Reading-Assignments
-These are my daily reading assignments for [Code Fellows code-201d17](https://asac.ltuc.com/courses/code-201-foundations-of-software-development/). in this way im putting my skills to review and remmbering what I am learning in a better way.
+These are my daily reading assignments for [Foundation of Software Development](https://asac.ltuc.com/courses/code-201-foundations-of-software-development/) Course. in this way im putting my skills to review and remmbering what I am learning in a better way.
 
+|   |   |   |   |
+|---|---|---|---|
+|  [] |   |   |   |
 
 
 ## Reading-Files-Topics
