@@ -1,221 +1,86 @@
-# JS Object Literals; The DOM
-<br>
+# Object Literals and the DOM
 
-# WHAT IS AN OBJECT?
-Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object,variables and functions take on new names.
+What is an object in JavaSCript?
 
-* IN AN OBJECT: VARIABLES BECOME KNOWN AS PROPERTIES
- If a variable is part of an object, it is called a property. Properties te ll us about the object.
+*Object*:
 
-* IN AN OBJECT: FUNCTIONS BECOME KNOWN AS METHODS
-If a function is part of an object, it is called a method.
-Methods represent tasks that are associated with the object.
+  Objects are representations of real world things that are made using variables and functions that are grouped together.
 
-![object](../img/object.PNG)
+  Variables and functions used within objects operate the same way but are called by different names. In an object, a variable is called a property.
 
-# Create an Object : LITERAL NOTATION
+*Property:*
 
+  Properties give information about the object like what the name of a park is. The park would be the object and the name *Pennyhill* would be the name or property of the park.
 
-![object](../img/oop.PNG)
+*Functions:*
 
-<br>
+  Within an object, functions are known as "methods". Methods are used to do tasks within the object. For instance, if you wanted to know how many more trees need to be planted in a park to get a total number of trees, you'd look at the total number of trees needed and then subtract the current number of trees planted.
 
-# Document Object Model (DOM)
+Now that we have a bit of information about objects, let's look at how to create one. There are many ways to do this. Below is just one way to do this.
 
-The Document Object Model (DOM) specifies
-how browsers should create a model of an HTML
-page and how JavaScript can access and update the
-contents of a web page while it is in the browser window.
+```var park = {```
 
-The DOM is neither part of HTML, nor part of JavaScript; it is a separate set of rules.
-It is implemented by all major browser makers, and covers two primary areas:
+  ```name: 'Pennyhill',```
 
-* MAKING A MODEL OF THE HTML PAGE :
-When the browser loads a web page, it
-creates a model of the page in memory.
-The DOM specifies the way in which the
-browser should structure this model using
-a DOM tree.
+  ```trees-needed: 60,```
 
-* ACCESSING AND CHANGING THE HTML PAGE :
-The DOM also defines methods and
-properties to access and update each
-object in this model, which in turn updates
-what the user sees in the browser.
+  ```trees-planted: 20,```
 
-# THE DOM TREE IS A MODEL OF A WEB PAGE
-As a browser loads a web page, it creates a model of that page. The model is called a DOM tree, and it is stored in the browser's' memory. It consists of four main types of nodes.
+  ```checkTotalneeded: function() {```
 
-1. THE DOCUMENT NODE
-2. ELEMENT NODES
-3. ATTRIBUTE NODES
-4. TEXT NODES
+  ```return this.treesPlanted - this.treesNeeded;```
 
-![body-Of-HTML-Page](../img/bodyof.PNG)
+  ```}```
 
-<br>
+```};```
 
-![DOM-Tree](../img/DOMtree.PNG)
+Accessing the object's properties or method is done using what is called "dot notation". This means that the name of the object, followed by a period (. "dot") and then the name of the method or property you are trying to access.
 
-# WORKING WITH THE DOM TREE
-Accessing and updating the DOM tree involves two steps:
-1. Locate the node that represents the element you want to work with.
-2. Use its text content, child elements, and attributes.
+For example:
 
-**STEP 1:** ACCESS THE ELEMENTS
-1. SELECT AN INDIVIDUAL ELEMENT NODE.
+```var parkName = park.Pennyhill```
 
-Here are three common ways to select an individual element:
+```var totalNeeded = park.checkTotalneeded();```
 
-* **get Element Byld ()** : Uses the value of an element's
-id attribute.
+This can also be done using square brackets [].
 
-* **querySelector ()** : Uses a CSS selector, and returns
-the first matching element.
+```var parkName = park['Pennyhill']```
 
-![select-an-individual-element](../img/se.PNG)
+```var totalNeeded = park['checkTotalneeded']();```
 
-2. SELECT MULTIPLE ELEMENTS (NODELISTS)
+Up next...
 
-There are three common ways to select multiple elements:
+## Dom, Dom Dommmmmmm
 
-* **getElementsByClassName()** : Selects all elements that have
-a specific value for their cl ass attribute.
+**DOM**: Document Object Model, dictates how the browser  creates a model of an HTML page and how JavaScript accesses and updates the webpage while in the borwser window.
 
-* **getElementsByTagName()** : Selects all elements that have the specified tag name.
+  DOM models are stored in the browsers memory
 
-* **querySelectorAll()** : Uses a CSS selector to select all
-matching elements.
+  DOMs have four different nodes:
 
-![select-multiple-elements](../img/se2.PNG)
+    Document Node
 
-3. TRAVERSING BETWEEN ELEMENT NODES
+    Element Node
 
-You can move from one element node to a related element node.
- 
- * **parentNode** : Selects the parent of the current
-element node (which will return just one element).
+    Attribute Node
 
-* **previousSibling / nextSibling** : Selects the previous or next sibling from the DOM tree.
+    Text Node
 
-* **firstChild / lastChild** : Select the first or last child of the current element.
-
-![TRAVERSING-BETWEEN-ELEMENT-NODES](../img/se3.PNG)
-
-
-**Note:** The terms elements and element nodes are used interchangeably but when people say the DOM is working with an element, it is actually working with a node that represents that element.
-
-
-**STEP 2: WORK WITH THOSE ELEMENTS**
-
-1. ACCESS/ UPDATE TEXT NODES
-
-The text inside any element is stored inside a text node. To
-access the text node above:
-1. Select the ```<li >```element.
-2. Use the fi rstChi l d property to get the text node.
-3. Use the text node's only property (nodeVa l ue) to get
-the text from the element.
-
-**nodeValue** : This property lets you access or
-update contents of a text node.
-
-2. WORK WITH HTML CONTENT
-One property allows access to child elements and text content:
-
-* innerHTML
-* textContent
-
-Several methods let you create new nodes, add nodes to a tree,
-and remove nodes from a tree:
-
-* create Element()
-* createTextNode()
-* appendChild () / removeChild ()
-
-This is called DOM manipulation.
-
-
-3. ACCESS OR UPDATE ATTRIBUTE VALUES
-Here are some of the properties
-and methods you can use to
-work with attributes:
-
-* className
-* id
-
- get or update the value of the class and id attributes:
-
- * **hasAttribute()**
-* **getAttribute()**
-* **setAttribute()**
-* **removeAttribute()**
-
-# ACCESSING ELEMENTS
-DOM queries may return one element, or they may return a Nodelist,which is a collection of nodes.
-
-Sometimes you will just want to access one individual element. Other times you may want to select a group of elements.
-
-* GROUPS OF ELEMENT NODES
-* FASTEST ROUTE
-![element](../img/element.PNG)
-
-![element2](../img/element2.PNG)
-
-# SELECTING ELEMENTS USING ID ATTRIBUTES
-
-* **get ElementByid ()** allows you to select a single element node by specifying the value of its
-id attribute.
-
-This method has one parameter: the value of the id attribute on
-the element you want to select.This value is placed inside quote
-marks because it is a string. The quotes can be single or double
-quotes, but they must match.
-
-![quote](../img/quo.PNG)
-
-# NODELISTS: DOM QUERIES THAT RETURN MORE THAN ONE ELEMENT
-When a DOM method can return more than one element, it returns a
-Nodelist.
-
-**Nodelist :** A collection of element nodes.
-
-Nodelists look like arrays and are numbered like
-arrays, but they are not actually arrays; they are a
-type of object called a **collection**.
-
-
-## Here you can see four different DOM queries that all return a Nodelist.For each query, you can see the elements and their index numbers in the Nodelist that is returned.
-
-* **getElementsByTagName('hl ' )**
-Even though this query only
-returns one element. the method
-still returns a Nodelist because
-of the potential for returning
-more than one element.
-
-* **getElementsByTagName('li ')**
-This method returns four
-elements, one for each of the
-```<li>``` elements on the page.
-They appear in the same order
-as they do in the HTML page.
-
-* **getElementsByClassName('hot')**
-
-This Nodelist contains only three of the ```<li >```elements because we are searching for elements by the value of their class attribute, not tag name.
-
-* **querySelectorA 11 ('li [id]')**
-This method returns four
-elements, one for each of the
-```<li>``` elements on the page that
-have an id attribute (regardless
-of the va lues of the id attributes).
-
-![selector](../img/select.PNG)
-
-
-
-
-
-
+Each node is an object with properties and methods.
+     
+## Summary
+- The browser represents the page using a DOM tree.
+DOM trees have four types of nodes: document nodes,
+element nodes, attribute nodes, and text nodes.
+- You can select element nodes by their id or cl ass
+attributes, by tag name, or using CSS selector syntax.
+Whenever a DOM query can return more than one
+node, it will always return a Nadel i st.
+- From an element node, you can access and update its
+content using properties such as textContent and
+i nnerHTML or using DOM manipulation techniques.
+- An element node can contain multiple text nodes and
+child elements that are siblings of each other.
+- In older browsers, implementation of the DOM is
+inconsistent (and is a popular reason for using jQuery).
+Browsers offer tools for viewing the DOM tree . 
