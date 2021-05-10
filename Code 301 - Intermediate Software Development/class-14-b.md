@@ -1,4 +1,5 @@
-Project Ideas
+# Project Ideas
+
 1- A weight tracker app
 
 It accepts a set of manual entries of weight measurements taken at different dates

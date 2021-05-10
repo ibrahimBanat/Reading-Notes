@@ -1,4 +1,4 @@
-## About
+# Reading Notes
 
 this repo is to document and highlight the knowldge wich gained through the full-stack bootcamp with [code fellows](https://www.codefellows.org/)
 
@@ -26,11 +26,22 @@ These are my daily reading assignments for [Foundation of Software Development](
 | [HTML Forms](https://ibrahimbanat.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-09)               | [Debugging](https://ibrahimbanat.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-10)                  | [CSS Images](https://ibrahimbanat.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-11)            | [Chart JS](https://ibrahimbanat.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-12)                  |
 | [Local Storage](https://ibrahimbanat.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-13)<br>        | [CSS Transition & Animation](https://ibrahimbanat.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-14) | [NY Magazine](https://ibrahimbanat.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-14b)          |
 
+<br><br>
+
 ## Code-301-Daily-Reading-Assignments
 
 These are my daily reading assignments for [Intermediate Software Development](https://www.codefellows.org/courses/code-301/intermediate-software-development/) Course. in this way im putting my skills to review and remmbering what I am learning in a better way.
 
-[Responsive Design](https://ibrahimbanat.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-14b)
+|                                                                                                                                          |                                                                                                                                          |                                                                                                                                        |                                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+|    [Responsive Design](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-01)     |          [JQuery](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-02)          | [Flexbox and Templating](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-03) |      [Regular Expressions](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-04)       |
+|    [Heroku Deployment](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-05)     |         [Node JS](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-06)          |        [REST API](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-07)        |              [SQL](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-08)               |
+| [Refactoring & Clean code](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-09) |        [Call Stack](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-10)        |          [EJS](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-11)           |          [EJS Partials](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-12)          |
+|    [Sending Form data](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-13)     | [Database Normalization](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-14-a) |    [Project Ideas](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-14-b)     | [Diversity in the Tech Industry](https://ibrahimbanat.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/class-15) |
+
+## Code-401-Daily-Reading-Assignments
+
+These are my daily reading assignments for Code Fellows [Advanced Software Development in Full-Stack JavaScript](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/) Course. in this way im putting my skills to review and remmbering what I am learning in a better way.
 
 ## Contact
 
@@ -43,14 +54,3 @@ These are my daily reading assignments for [Intermediate Software Development](h
 
 <br>
 <br>
-
-## Acknowledgements
-
-- [Linux Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
-- [Git & Github](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1)
-
-- [Markdown Documentation](https://www.markdownguide.org/getting-started)
-
-- [GitHub Pages](https://pages.github.com/)
-
-- [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
