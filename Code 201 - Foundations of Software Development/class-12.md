@@ -1,3 +1,5 @@
+# Chart JS
+
 - Chart.js is a popular open source library that helps us to plot data in web applications. It is highly customizable, but configuring all of its options remains a challenge for some people. Let’s explore it, starting from a simple example and building upon it.
 
 CHARTS :
