@@ -54,3 +54,20 @@ function MyComponent(props) {
 | state hook   | like `useState` is a Hook that lets you add React state to function components.                                                                              |
 | effect hook  | The Effect Hook lets you perform side effects in function components                                                                                         |
 | reducer hook | is used to store and update states, just like the `useState` Hook. It accepts a reducer function as its first parameter and the initial state as the second. |
+
+## Preview
+
+- Custom Hooks
+
+  The easiest way to describe Hooks is to show side-by-side examples of a class component that needs to have access to state and lifecycle methods, and another example where we achieve the same thing with a functional component.
+
+  - The Benefits of Using Hooks
+    Hooks have a lot of benefit to us as developers, and they are going to change the way we write components for the better.
+  - Important Rules for Hooks
+
+    1. Never call Hooks from inside a loop, condition or nested function
+    1. Hooks should sit at the top-level of your component
+    1. Only call Hooks from React functional components
+    1. Never call a Hook from a regular function
+    1. Hooks can call other Hooks
+    1. React Hooks with Async-Await
