@@ -46,3 +46,11 @@ function MyComponent(props) {
 ```
 
     `useEffect` should be outside of the for loop in this example.
+
+## Vocabulary Terms
+
+| Term         | Definition                                                                                                                                                   |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| state hook   | like `useState` is a Hook that lets you add React state to function components.                                                                              |
+| effect hook  | The Effect Hook lets you perform side effects in function components                                                                                         |
+| reducer hook | is used to store and update states, just like the `useState` Hook. It accepts a reducer function as its first parameter and the initial state as the second. |
