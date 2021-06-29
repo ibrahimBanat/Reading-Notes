@@ -28,3 +28,21 @@ we will combine Authentication (valid user is logged in) and Authorization (what
 | global context | This is context that affects the entire application, and it will share data to everything in the React component tree.                   |
 | provider       | The context provider accepts a value that will be passed to its children. All children components will re-render when the value changes. |
 | consumer       | This is a React component that subscribes to context changes in value of the Provider.                                                   |
+
+## Preview
+
+- What is Role-Based Access Control (RBAC) ?
+
+  In computer systems security, role-based access control or role-based security is an approach to restricting system access to authorized users. It is used by the majority of enterprises with more than 500 employees, and can implement mandatory access control or discretionary access control.
+
+  BENEFITS OF RBAC
+
+        - Reducing administrative work and IT support
+        - Maximizing operational efficiency
+        - Improving compliance
+
+- React-cookies
+
+  Cookies are the data stored in the form of key-value pairs that are used to store information about the user on their computer by the websites that the users browse and use it to verify them.
+
+  To set or remove the cookies, we are using a third-party dependency of react-cookie
