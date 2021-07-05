@@ -15,3 +15,10 @@ This is a Con because you may fire off reducers that you did not intend.
 3. Name a strategy for preventing the above
 
 You can use more specific names that represent the reducer and data want to change .
+
+## Vocuabulary Terms
+
+| Word              | Definition                                                                                                  |
+| ----------------- | ----------------------------------------------------------------------------------------------------------- |
+| store             | This holds the state of the application. This can only be changed when actions are dispatched to the store. |
+| combined reducers | This takes all the reducer functions from an app and combines them to pass to createStore.                  |
